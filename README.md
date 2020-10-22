@@ -13,6 +13,7 @@ This repo takes you through the steps regarding what is happening under the hood
 * Tenforflow
 * Keras
 * Pytorch
+
 As this repo only uses **numpy** so it only runs on CPU that's why its considerably slower than the models running on GPUs.
 
 ### Dependencies

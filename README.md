@@ -10,9 +10,9 @@ by using only numpy
 The effect of different activations functions (e.g. *sigmoid*, *ReLu*) is also studied in this repo.
 
 This repo takes you through the steps regarding what is happening under the hood of artificial neural networks created by high level libraries like
-*Tenforflow
-*Keras
-*Pytorch
+* Tenforflow
+* Keras
+* Pytorch
 As this repo only uses **numpy** so it only runs on CPU that's why its considerably slower than the models running on GPUs.
 
 ### Dependencies

@@ -27,7 +27,7 @@ As this repo only uses **numpy** so it only runs on CPU that's why its considera
 If you are completely new to machine learning I recommend you to read this [book](https://b-ok.asia/book/2701405/13985c) along side this repo.
 I'll be using a lot of concepts discussesd in the book above and also in [cs231](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv).
 
-####Neural Network Architecture
+#### Neural Network Architecture
 ## Training with *Sigmoid* activation
 Follwing is the architecture of the neural network constructed in the scripts.
 

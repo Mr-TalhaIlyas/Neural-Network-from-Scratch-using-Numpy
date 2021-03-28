@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
-
+[![DOI](https://zenodo.org/badge/306242558.svg)](https://zenodo.org/badge/latestdoi/306242558)
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 # Neural Network form scratch (MNIST)
 This Repo creates a Neural Network form scratch using only **numpy** library. The NN is tested on MNIST-Digits dataset which contains 10 classes for classification.

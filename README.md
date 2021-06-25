@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 [![DOI](https://zenodo.org/badge/306242558.svg)](https://zenodo.org/badge/latestdoi/306242558)
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMr-TalhaIlyas%2FNeural-Network-from-Scratch-using-Numpy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Neural Network form scratch (MNIST)
 This Repo creates a Neural Network form scratch using only **numpy** library. The NN is tested on MNIST-Digits dataset which contains 10 classes for classification.
 MNIST like a 'hello_world' dataset in machine learning community.

@@ -35,7 +35,7 @@ I'll be using a lot of concepts discussesd in the book above and also in [cs231]
 ## Training with *Sigmoid* activation
 Follwing is the architecture of the neural network constructed in the scripts.
 
-![alt text](https://github.com/Mr-TalhaIlyas/Neural-Network-from-Scratch-using-Numpy/blob/master/screens/NN.gif?raw=true)
+[![Alt text](https://github.com/Mr-TalhaIlyas/Neural-Network-from-Scratch-using-Numpy/blob/master/screens/NN.gif)](https://www.youtube.com/watch?v=7ZJDlKRBAuU)
 
 *You can study the details and math behind the neural network in the book above, here I'll explain things via presentation style images. Following is actually a **summary** of what you'll study in above mentioned lectures*
 
